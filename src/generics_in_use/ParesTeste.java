@@ -19,7 +19,6 @@ public class ParesTeste {
 
 		matematicos.adicionar(3, "Germain");
 		
-
 		System.out.println("1: " + matematicos.getValor(1));
 		System.out.println("2: " + matematicos.getValor(2));
 		System.out.println("3: " + matematicos.getValor(3));
@@ -28,8 +27,5 @@ public class ParesTeste {
 		System.out.println("6: " + matematicos.getValor(6));
 		System.out.println("7: " + matematicos.getValor(7));
 		System.out.println("8: " + matematicos.getValor(8));
-
-		
 	}
-
 }

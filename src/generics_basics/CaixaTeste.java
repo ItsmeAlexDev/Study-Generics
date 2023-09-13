@@ -18,5 +18,4 @@ public class CaixaTeste {
 		Double coisa_B = caixa_B.abrir();
 		System.out.println(coisa_B);
 	}
-
 }

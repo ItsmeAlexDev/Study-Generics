@@ -21,5 +21,4 @@ public class ListaUtilTest {
 		Double UltimaConstante2 = ListaUtil.getUltimo2(constantes);
 		System.out.println(UltimaConstante2);
 	}
-
 }
